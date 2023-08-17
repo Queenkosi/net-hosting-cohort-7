@@ -1,0 +1,18 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+.imagename {
+    font-size: medium;
+    font-weight: bolder;
+    color: crimson;
+    text-align: center;
+}
+#topic{
+    font-size: large;
+    font-weight: bolder;
+    color: chocolate;
+    text-align: center;
+    margin-top: 10p;
+}
